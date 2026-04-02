@@ -1,6 +1,3 @@
-# AccuKnox-user-management-tests
-I tested this website using manual and automation testing.
-
 Project Setup Steps
 
 1. Install Node.js
@@ -29,3 +26,4 @@ How to Run Test Cases
 
 Command -
 npx playwright test
+
